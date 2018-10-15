@@ -23,7 +23,7 @@ There are 9 states that can be used in ARIA. They fall into 3 categories as defi
 
 Note: ARIA is constantly being updated by the W3C. [Read the latest working draft](https://w3c.github.io/aria/).
 
-The states are given below, along with their category, brief description, and allowed value lists. Many states allow for either true or false, and when "undefined" is chosen it means the state is not applicable to the current element.
+The states are given below, along with their category, brief description, and allowed value lists. Many states allow for either true or false, and when "undefined" is chosen it means the state is not applicable to the current element. 
 
 State (links to WAI-ARIA 1.1 specs) | Category | Description | Allowed Values (**default values bolded**)
 ---|---|---|---
