@@ -13,12 +13,12 @@ published: true
 ```
 There are 9 states that can be used in ARIA. They fall into 3 categories as defined by the W3C. The categories are:
 <dl>
-  <dt>Widget Attributes</dt>
-  <dd>States that give information about user input elements.</dd>
-  <dt>Live Region Attributes</dt>
-  <dd>States that are specific to regions that will update while the page is being viewed.</dd>
-  <dt>Drag-and-Drop Attributes</dt>
-  <dd>States of drag-and-drop input elements.</dd>
+  <dt style="font-weight: bold;">Widget Attributes</dt>
+  <dd style="padding-left: 1em;">States that give information about user input elements.</dd>
+  <dt style="font-weight: bold;">Live Region Attributes</dt>
+  <dd style="padding-left: 1em;">States that are specific to regions that will update while the page is being viewed.</dd>
+  <dt style="font-weight: bold;">Drag-and-Drop Attributes</dt>
+  <dd style="padding-left: 1em;">States of drag-and-drop input elements.</dd>
 </dl>
 
 Note: ARIA is constantly being updated by the W3C. [Read the latest working draft](https://w3c.github.io/aria/).
