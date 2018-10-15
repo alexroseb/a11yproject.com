@@ -15,14 +15,14 @@ A screenreader will announce this button with 'Options, button menu' or somethin
 
 There are 26 properties that can be used in ARIA. They fall into 4 categories as defined by the W3C. The categories are:
 <dl>
-  <dt>Widget Attributes</dt>
-  <dd>Properties that give information about user input elements.</dd>
-  <dt>Live Region Attributes</dt>
-  <dd>Properties that are specific to regions that will update while the page is being viewed.</dd>
-  <dt>Drag-and-Drop Attributes</dt>
-  <dd>Properties of drag-and-drop input elements.</dd>
-  <dt>Relationship Attributes</dt>
-  <dd>Properties that give information about elements' relationships to other elements.</dd>
+  <dt style="font-weight: bold;">Widget Attributes</dt>
+  <dd style="padding-left: 1em;">Properties that give information about user input elements.</dd>
+  <dt style="font-weight: bold;">Live Region Attributes</dt>
+  <dd style="padding-left: 1em;">Properties that are specific to regions that will update while the page is being viewed.</dd>
+  <dt style="font-weight: bold;">Drag-and-Drop Attributes</dt>
+  <dd style="padding-left: 1em;">Properties of drag-and-drop input elements.</dd>
+  <dt style="font-weight: bold;">Relationship Attributes</dt>
+  <dd style="padding-left: 1em;">Properties that give information about elements' relationships to other elements.</dd>
 </dl>
 
 Note: ARIA is constantly being updated by the W3C. [Read the latest working draft](https://w3c.github.io/aria/).
